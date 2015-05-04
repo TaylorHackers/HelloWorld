@@ -1,0 +1,9 @@
+X:\Bing Bot 2.0\BingBot2.0\BingBot2.0\bin\Debug\BingBot2.0.exe.config
+X:\Bing Bot 2.0\BingBot2.0\BingBot2.0\obj\Debug\BingBot2.0.csprojResolveAssemblyReference.cache
+X:\Bing Bot 2.0\BingBot2.0\BingBot2.0\obj\Debug\BingBot2._0.Form1.resources
+X:\Bing Bot 2.0\BingBot2.0\BingBot2.0\obj\Debug\BingBot2._0.Properties.Resources.resources
+X:\Bing Bot 2.0\BingBot2.0\BingBot2.0\obj\Debug\BingBot2.0.csproj.GenerateResource.Cache
+X:\Bing Bot 2.0\BingBot2.0\BingBot2.0\bin\Debug\BingBot2.0.exe
+X:\Bing Bot 2.0\BingBot2.0\BingBot2.0\bin\Debug\BingBot2.0.pdb
+X:\Bing Bot 2.0\BingBot2.0\BingBot2.0\obj\Debug\BingBot2.0.exe
+X:\Bing Bot 2.0\BingBot2.0\BingBot2.0\obj\Debug\BingBot2.0.pdb
