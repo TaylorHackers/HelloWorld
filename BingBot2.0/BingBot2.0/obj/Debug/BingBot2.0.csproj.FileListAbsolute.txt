@@ -7,3 +7,12 @@ X:\Bing Bot 2.0\BingBot2.0\BingBot2.0\bin\Debug\BingBot2.0.exe
 X:\Bing Bot 2.0\BingBot2.0\BingBot2.0\bin\Debug\BingBot2.0.pdb
 X:\Bing Bot 2.0\BingBot2.0\BingBot2.0\obj\Debug\BingBot2.0.exe
 X:\Bing Bot 2.0\BingBot2.0\BingBot2.0\obj\Debug\BingBot2.0.pdb
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\HelloWorld\BingBot2.0\BingBot2.0\bin\Debug\BingBot2.0.exe.config
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\HelloWorld\BingBot2.0\BingBot2.0\bin\Debug\BingBot2.0.exe
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\HelloWorld\BingBot2.0\BingBot2.0\bin\Debug\BingBot2.0.pdb
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\HelloWorld\BingBot2.0\BingBot2.0\obj\Debug\BingBot2.0.csprojResolveAssemblyReference.cache
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\HelloWorld\BingBot2.0\BingBot2.0\obj\Debug\BingBot2._0.Form1.resources
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\HelloWorld\BingBot2.0\BingBot2.0\obj\Debug\BingBot2._0.Properties.Resources.resources
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\HelloWorld\BingBot2.0\BingBot2.0\obj\Debug\BingBot2.0.csproj.GenerateResource.Cache
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\HelloWorld\BingBot2.0\BingBot2.0\obj\Debug\BingBot2.0.exe
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\HelloWorld\BingBot2.0\BingBot2.0\obj\Debug\BingBot2.0.pdb

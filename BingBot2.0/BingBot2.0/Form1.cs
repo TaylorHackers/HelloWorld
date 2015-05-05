@@ -15,9 +15,11 @@ namespace BingBot2._0
     public partial class Form1 : Form
     {
         private Random random = new Random();
+
+        // Random Dictionary of words / top searches in Bing
         private static string wordsFile = Properties.Resources.words;
-        //string[] words = System.IO.File.ReadAllLines(wordsFile);
-        private string[] words = wordsFile.Split(new[] { Environment.NewLine }, StringSplitOptions.RemoveEmptyEntries);
+        // Separates each word by the newline character and stores them in an array
+        private string[] words = wordsFile.Split(new[] { "\n" }, StringSplitOptions.RemoveEmptyEntries);
 
         public Form1()
         {
@@ -51,10 +53,6 @@ namespace BingBot2._0
         
         public string GenerateRandomWords(int numWords)
         {
-
-            // Random Dictionary of words / top searches in Bing
-            string[] words = wordsFile.Split(new[] { Environment.NewLine }, StringSplitOptions.RemoveEmptyEntries);
-
             StringBuilder builder = new StringBuilder();
 
             for (int i = 0; i < numWords; i++)
@@ -108,11 +106,6 @@ namespace BingBot2._0
         private void button1_Click(object sender, EventArgs e)
         {
             Search(true, 1);
-        }
-
-        private void textBox1_TextChanged(object sender, EventArgs e)
-        {
-
         }
 
         private void webBrowser1_DocumentCompleted(object sender, WebBrowserDocumentCompletedEventArgs e)
